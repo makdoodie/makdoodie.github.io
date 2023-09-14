@@ -3494,10 +3494,6 @@ sub,sup{
     }
 }
 .tech{
-    display:flex;
-    flex-direction:row;
-    justify-content:flex-start;
-    align-items:center;
     margin:10px;
 }
 .user{
