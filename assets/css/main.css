@@ -3606,3 +3606,6 @@ sub,sup{
     margin:0;
     color:#fff
 }
+.tech i {
+    display: inline-block;
+}
